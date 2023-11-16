@@ -1,7 +1,6 @@
 <h1 align='center'> API de Catálogo de Livros </h1>
 
-<p align='center'>Esta é uma API de lista de carros desenvolvida com Flask, foi projetada para armazenar informações sobre carros, incluindo marca, modelo e ano.
-Você também poderá buscar os livros por gênero, nome do autor, nome do livro, tipo ou nome da editora.</p>
+<p align='center'>Esta é uma API de lista de carros desenvolvida com Flask, foi projetada para armazenar informações sobre carros, incluindo marca, modelo e ano.</p>
 
 <div align='center'>
   <a href="https://www.python.org/" target="_blank">
